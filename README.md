@@ -8,3 +8,9 @@
 ### Week 2: Neural Networks Basics
 1. Logistic Regression as Neural Network
 2. Python and Vectorization
+
+### Week 3: Shallow Neural Networks
+1. Vectorizing across multiple examples
+2. Activation function: tanh(), ReLu, sigmoid
+3. Why do we need non-linear activation function
+4. Why random initialization
