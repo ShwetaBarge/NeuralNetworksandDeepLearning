@@ -14,3 +14,8 @@
 2. Activation function: tanh(), ReLu, sigmoid
 3. Why do we need non-linear activation function
 4. Why random initialization
+
+### Week 4: Deep Neural Networks
+1. Deep NN representation
+2. Building a deep NN 
+3. Building a deep NN app
